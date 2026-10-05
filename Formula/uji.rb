@@ -1,8 +1,8 @@
 class Uji < Formula
   desc "Coding agent you can shape with Lua"
   homepage "https://github.com/uji-labs/uji"
-  url "https://github.com/uji-labs/uji/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "6d06b2e7414b73bb6f28b96766cb81bb60d9a45ab82721af732d58a93a3b1bd7"
+  url "https://github.com/uji-labs/uji/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "d407b15de4ea1312eb5df5b2bbac770d51042b74814c089649a02b891b385578"
   license "GPL-3.0-or-later"
   head "https://github.com/uji-labs/uji.git", branch: "main"
 
